@@ -1,5 +1,7 @@
 
-let prezzo; //prezzo del biglietto da definire//
+let prezzo 
+
+let n = prezzo.toFixed(2);; //prezzo del biglietto da definire//
 
 let numAge = Number(window.prompt("INSERISCI GLI ANNI DEL PASSEGGERO"));
 
@@ -26,4 +28,4 @@ else if (numAge < 18){
 else {
     prezzo = numKm * costKm * scontoOld
 }
-console.log(prezzo);
+console.log(n);
