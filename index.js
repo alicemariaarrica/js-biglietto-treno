@@ -9,7 +9,7 @@ let scontoMinor = 1-0.2;
 
 let scontoOld = 1-0.4;
 
-let costKm = 1-0.21;
+let costKm = 0.21;
 
 
 
