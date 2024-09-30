@@ -13,12 +13,12 @@ let costKm = 0.21;
 
 
 
-if (numAge > 18 && < 65 || numAge == 18){
+if (numAge > 18 && numAge < 65 || numAge == 18){
 
    prezzo = numKm * costKm
 }
 
-if else (numAge < 18){
+else if (numAge < 18){
 
     prezzo = numKm * costKm * scontoMinor
 }
