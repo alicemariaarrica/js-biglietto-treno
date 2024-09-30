@@ -1,15 +1,11 @@
 
 
-let numKm;
+let numKm;  //var di prompt//
 
-let numEtà;
-
-
+let numEtà; //var di prompt//
 
 
 
 
-let prompt(Inserisci il numero di chilometri da percorrere);
 
-let prompt(Inserisci la età del passeggero);
 
